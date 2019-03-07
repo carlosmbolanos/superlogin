@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "bluebird": "^2.9.14",
-    "couch-pwd": "0.0.1",
+    "couch-pwd": "https://github.com/carlosmbolanos/couch-pwd.git",
     "ejs": "^2.3.1",
     "express": "^4.13.3",
     "extend": "^2.0.0",
